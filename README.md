@@ -47,7 +47,7 @@ Donde:
   La extensión del archivo, por ejemplo: `pdf`, `docx`, etc.
 
  Ejemplo de Nombrado:
- _BIBLIO_1001_ManifiestoAgil.pdf
+ _BIBLIO_1001_Manifiesto-Agil.pdf
 
 
 ### Series de Configuración
