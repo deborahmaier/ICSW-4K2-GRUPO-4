@@ -62,6 +62,7 @@ Donde:
 | Multimedia    | 6XXX    |
 | Toma de Notas | 7XXX    |
 | Simulacros    | 8XXX    |
+| Trabajos Prácticos | 9XXX    |
 
 ## Listado de Ítems de Configuración
 
@@ -79,7 +80,12 @@ Se consideran ítems de configuración los siguientes elementos:
 
 ## Línea Base
 
-Se establecerá una línea base para cada parcial rendido y aprobado, la cual estará en la rama `main` del repositorio. Esto se considera un “checkpoint” en el conocimiento adquirido y es el momento adecuado para establecer una línea base.
+Se establecerá una línea base para servir como fuente de información confiable acerca de la materia para los miembros del grupo, asegurando la fiabilidad y estabilidad de la misma. Esta línea base se encontrará en la rama main del repositorio.
+
+Cada modificación incluída en el repositorio será revisada por todos los integrantes del equipo antes de ser incluída en la rama principal main. Esta revisión está definida para realizarse cada 2 semanas los días sábados.
+
+Estableciendo este intervalo de tiempo para las revisiones permite que todos los integrantes mantengan una actualización de los conocimientos, usando cada una de estas instancias como “checkpoint” en el transcurso del cursado de la materia.
+
 
 
 
