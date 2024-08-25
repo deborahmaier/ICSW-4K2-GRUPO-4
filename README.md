@@ -1,9 +1,5 @@
 # ICSW-4K2-GRUPO-4
 
-## Control de Versiones
-
-Se utilizará **Git** como sistema de control de versiones distribuido. El repositorio está alojado en GitHub.
-
 ### Regla de Nombrado de Versiones
 
 El siguiente formato será utilizado para el nombrado de las versiones:
@@ -22,9 +18,6 @@ El siguiente formato será utilizado para el nombrado de las versiones:
 * Resúmenes
 * Multimedia
 
-## Control de Versiones
-
-Se utilizará **Git** como sistema de control de versiones distribuido. El repositorio está alojado en GitHub.
 
 ### Regla de Nombrado de Versiones
 
