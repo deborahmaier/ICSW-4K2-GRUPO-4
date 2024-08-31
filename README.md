@@ -11,7 +11,6 @@ El siguiente formato será utilizado para el nombrado de las versiones:
 * Clases
 	+ Simulacros
 	+ Presentaciones
-	+ Toma-de-Notas-(fechaClase)-(tema)
 * Lineamientos
 * Trabajos-Grupales
 	+ Trabajos-Prácticos
