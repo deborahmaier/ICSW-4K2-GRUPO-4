@@ -11,6 +11,7 @@ El siguiente formato será utilizado para el nombrado de las versiones:
 * Clases
 	+ Simulacros
 	+ Presentaciones
+	+ Toma de Notas
 * Lineamientos
 * Trabajos-Grupales
 	+ Trabajos-Prácticos
@@ -52,21 +53,23 @@ Donde:
 | Lineamientos  | 4XXX    |
 | Presentaciones | 5XXX    |
 | Multimedia    | 6XXX    |
-| Simulacros    | 7XXX    |
-| Trabajos Prácticos | 8XXX    |
+| Toma de Notas    | 7XXX    |
+| Simulacros    | 8XXX    |
+| Trabajos Prácticos | 9XXX    |
 
 ## Listado de Ítems de Configuración
 
 Se consideran ítems de configuración los siguientes elementos:
 
-| Tipo           | Formato                | Abreviatura | Ubicación Física                          |
+| Tipo           | Formato                | Abreviatura | Ubicación Física                         |
 |----------------|------------------------|-------------|------------------------------------------|
-| Bibliografía   | PDF                    | BIBLIO      | Bibliografía/TemaX                       |
-| Trabajos Prácticos | PDF, DOCX, XLSX        | TP          | Trabajos-Prácticos/                      |
+| Bibliografía   | PDF                    | BIBLIO      | Bibliografía/TemaX/                      |
+| Trabajos Prácticos | PDF, DOCX, XLSX    | TP          | Trabajos-Prácticos/                      |
 | Resúmenes      | PDF, DOCX, GDOC        | RES         | Resúmenes/                               |
 | Lineamientos   | PDF                    | LINEA       | Lineamientos/                            |
 | Presentaciones | PDF, PPTX, GDOC        | PRESENT     | Clases/Presentaciones/                   |
 | Multimedia     | JPG, PNG, PDF, MP4     | MULT        | Multimedia/                              |
+| Toma de Notas  | PDF, DOCX, GDOC        | NOTAS       | Clases/Toma-de-Notas                     |
 
 ## Línea Base
 
