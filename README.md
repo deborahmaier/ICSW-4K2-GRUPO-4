@@ -53,9 +53,8 @@ Donde:
 | Lineamientos  | 4XXX    |
 | Presentaciones | 5XXX    |
 | Multimedia    | 6XXX    |
-| Toma de Notas | 7XXX    |
-| Simulacros    | 8XXX    |
-| Trabajos Prácticos | 9XXX    |
+| Simulacros    | 7XXX    |
+| Trabajos Prácticos | 8XXX    |
 
 ## Listado de Ítems de Configuración
 
@@ -69,7 +68,6 @@ Se consideran ítems de configuración los siguientes elementos:
 | Lineamientos   | PDF                    | LINEA       | Lineamientos/                            |
 | Presentaciones | PDF, PPTX, GDOC        | PRESENT     | Clases/Presentaciones/                   |
 | Multimedia     | JPG, PNG, PDF, MP4     | MULT        | Multimedia/                              |
-| Toma de Notas  | PDF, DOCX, GDOC        | NOTAS       | Clases/Toma-de-Notas-(FechaClase)-(Tema)/ |
 
 ## Línea Base
 
