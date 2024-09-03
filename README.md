@@ -64,14 +64,14 @@ Se consideran ítems de configuración los siguientes elementos:
 | Tipo             | Extensión          | Abreviatura | Ubicación Física      | Nombre específico                                                                           |
 |------------------|--------------------|-------------|-----------------------|---------------------------------------------------------------------------------------------|
 | Bibliografía     | PDF                | BIBLIO      | Bibliografía/TemaX/   | _<< Abreviatura >>_<< Prefijo >>_<< NombreMaterial >>.<< Extensión >>
-| Trabajo-Práctico | PDF, DOCX, XLSX    | TP          | Trabajos-Prácticos/   | _<<Abreviatura>>_<<Prefijo>>_TP<<X>>-<<NombreTP>>.<<Extensión>>
-| Resumen          | PDF, DOCX, GDOC    | RES         | Resúmenes/ 	      | _<<Abreviatura>>_<<Prefijo>>_<<NombreResumen>>.<<Extensión>
-| Lineamiento      | PDF                | LINEA       | Lineamientos/         | _<<Abreviatura>>_<<Prefijo>>_<<NombreLineamiento>>.<<Extensión>>
-| Presentación     | PDF, PPTX, GDOC    | PRESENT     | Clases/Presentaciones/| _<<Abreviatura>>_<<Prefijo>>_<<NombrePresentacion>>.<<Extensión>>
-| Multimedia       | JPG, PNG, PDF, MP4 | MULT        | Multimedia/ 	      | _<<Abreviatura>><<Prefijo>>_<<NombreArchivo>>.<<Extensión>>
-| Toma de Notas    | PDF, DOCX, GDOC    | NOTAS       | Clases/Toma-de-Notas  | _<<Abreviatura>>_<<Prefijo>>_<<FechaClase>>_<<<TemaClase>>_<InicialesAutor>>.<<Extensión>>
-| Trabajo-Grupal   | PDF, DOCX, XLSX    | TG          | Trabajos-Grupales/    | _<<Abreviatura>>_<<Prefijo>>_<<NombreGuia>>.<<Extensión>>
-| Simulacro 	   | PDF, DOCX          | SIM         | Clases/Simulacros     | _<<Abreviatura>>_<<Prefijo>>_<<NombreSimulacro>>.<<Extensión>>
+| Trabajo-Práctico | PDF, DOCX, XLSX    | TP          | Trabajos-Prácticos/   | _<< Abreviatura >>_<< Prefijo >>_TP<< X >>-<< NombreTP >>.<< Extensión >>
+| Resumen          | PDF, DOCX, GDOC    | RES         | Resúmenes/ 	      | _<< Abreviatura >>_<< Prefijo >>_<< NombreResumen >>.<< Extensión >
+| Lineamiento      | PDF                | LINEA       | Lineamientos/         | _<< Abreviatura >>_<< Prefijo >>_<< NombreLineamiento >>.<< Extensión >>
+| Presentación     | PDF, PPTX, GDOC    | PRESENT     | Clases/Presentaciones/| _<< Abreviatura >>_<< Prefijo >>_<< NombrePresentacion >>.<< Extensión >>
+| Multimedia       | JPG, PNG, PDF, MP4 | MULT        | Multimedia/ 	      | _<< Abreviatura >>_<< Prefijo >>_<< NombreArchivo >>.<< Extensión >>
+| Toma de Notas    | PDF, DOCX, GDOC    | NOTAS       | Clases/Toma-de-Notas  | _<< Abreviatura >>_<< Prefijo >>_<< FechaClase >>_<< TemaClase >>_<< InicialesAutor >>.<< Extensión >>
+| Trabajo-Grupal   | PDF, DOCX, XLSX    | TG          | Trabajos-Grupales/    | _<< Abreviatura >>_<< Prefijo >>_<< NombreGuia >>.<< Extensión >>
+| Simulacro 	   | PDF, DOCX          | SIM         | Clases/Simulacros     | _<< Abreviatura >>_<< Prefijo >>_<< NombreSimulacro >>.<< Extensión >> 
 
 ## Línea Base
 
