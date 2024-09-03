@@ -19,28 +19,28 @@ El siguiente formato será utilizado para el nombrado de las versiones:
 * Multimedia
 
 
-### Regla de Nombrado de Versiones
-
-El siguiente formato será utilizado para el nombrado de las versiones:
-<TipoItemDeConfiguración><Numeración>_<Nombre>.<Extensión>
+**Reglas de nombrado de cada ítem de configuración:**
+Se utilizará el siguiente formato para el nombrado de versiones:
+_<Abreviatura>_<Prefijo>_<Nombre>.<Extensión>
 
 Donde:
+- Abreviatura:
+  Es el tipo de ítem de configuración, por ejemplo: BIBLIO, TP, etc.
+  Remitirse a la columna “Abreviatura” de la sección "Listado de ítems de configuración" para ver los tipos de ítems de configuración.
 
-- **TipoItemDeConfiguración**:  
-  El tipo de ítem de configuración, por ejemplo: `BIBLIO`, `TP`, etc.  
-  Consultar la sección "Listado de ítems de configuración" para ver los tipos disponibles.
+- Prefijo:
+  Es un número que se le asigna al ítem de configuración, y debe seguir el formato XXXX, por ejemplo: 0001, 0002, etc. Teniendo en cuenta que la primera X es dependiendo de la serie de ítem de configuración a la que pertenece el ítem. 
 
-- **Numeración**:  
-  Número asignado al ítem de configuración, siguiendo el formato `XXXX`. Ejemplo: `0001`, `0002`, etc. La primera `X` depende de la serie a la que pertenece.
+- Nombre: 
+  Es el nombre que se le asigna al ítem de configuración, si tiene más de una palabra, va separado por guiones medios; por ejemplo: “TP5-Caja-Negra”, etc.
 
-- **Nombre**:  
-  Nombre asignado al ítem de configuración. Si tiene más de una palabra, se separan por espacios.
+- Extensión: 
+  Es la extensión del ítem de configuración, por ejemplo: pdf, docx, etc.
 
-- **Extensión**:  
-  La extensión del archivo, por ejemplo: `pdf`, `docx`, etc.
+Ejemplo:
 
- Ejemplo de Nombrado:
  _BIBLIO_1001_Manifiesto-Agil.pdf
+
 
 
 ### Series de Configuración
@@ -61,9 +61,9 @@ Donde:
 
 Se consideran ítems de configuración los siguientes elementos:
 
-| Tipo             | Extensión          | Abreviatura | Ubicación Física      | Nombre específico |
-|------------------|--------------------|-------------|-----------------------|--------------------------|
-| Bibliografía     | PDF                | BIBLIO      | Bibliografía/TemaX/   | _<<Abreviatura>>_<<Prefijo>>_<<NombreMaterial>>.<<Extensión>
+| Tipo             | Extensión          | Abreviatura | Ubicación Física      | Nombre específico                                                                           |
+|------------------|--------------------|-------------|-----------------------|---------------------------------------------------------------------------------------------|
+| Bibliografía     | PDF                | BIBLIO      | Bibliografía/TemaX/   | _<< Abreviatura >>_<< Prefijo >>_<< NombreMaterial >>.<< Extensión >>
 | Trabajo-Práctico | PDF, DOCX, XLSX    | TP          | Trabajos-Prácticos/   | _<<Abreviatura>>_<<Prefijo>>_TP<<X>>-<<NombreTP>>.<<Extensión>>
 | Resumen          | PDF, DOCX, GDOC    | RES         | Resúmenes/ 	      | _<<Abreviatura>>_<<Prefijo>>_<<NombreResumen>>.<<Extensión>
 | Lineamiento      | PDF                | LINEA       | Lineamientos/         | _<<Abreviatura>>_<<Prefijo>>_<<NombreLineamiento>>.<<Extensión>>
