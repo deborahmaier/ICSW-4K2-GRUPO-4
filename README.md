@@ -76,9 +76,13 @@ Se consideran ítems de configuración los siguientes elementos:
 ## Línea Base
 
 Se establecerá una línea base para servir como fuente de información confiable acerca de la materia para los miembros del grupo, asegurando la fiabilidad y estabilidad de la misma. Esta línea base se encontrará en la rama main del repositorio.
+
 La línea base se especificará mediante el uso de tags o etiquetas de github, existirá la etiqueta “baseline” que estará presente en todos los ítems de configuración que se consideren parte de la línea base mientras que los demás archivos no poseerán etiqueta alguna hasta el momento de determinación de una nueva línea base.
-Se establecerá la línea base inicial y la carga de todos los archivos correspondientes disponibles hasta el día Martes 03/09/2024.
+
+**Se establecerá la línea base inicial y la carga de todos los archivos correspondientes disponibles hasta el día Martes 03/09/2024.**
+
 Luego, cada modificación incluída en el repositorio será revisada por todos los integrantes del equipo antes de otorgarle o no la etiqueta de “baseline” para su inclusión o no en la línea base del proyecto. Esta revisión está definida para realizarse cada 2 semanas los días sábados en donde se actualizará la versión de la línea base.
+
 Estableciendo este intervalo de tiempo para las revisiones permite que todos los integrantes mantengan una actualización de los conocimientos, usando cada una de estas instancias como “checkpoint” en el transcurso del cursado de la materia.
 
 
