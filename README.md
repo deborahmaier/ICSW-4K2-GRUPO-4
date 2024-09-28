@@ -54,7 +54,7 @@ Se consideran ítems de configuración los siguientes elementos:
 | Trabajo-Grupal   | PDF, DOCX, XLSX    | TG          | Trabajos-Grupales/    | _ << Abreviatura >> _ << Prefijo >> _ << NombreGuia >>.<< Extensión >>
 | Simulacro 	   | PDF, DOCX          | SIM         | Clases/Simulacros     | _ << Abreviatura >> _ << Prefijo >> _ << NombreSimulacro >>.<< Extensión >> 
 
-## Aclaración: Los nombres de los distintos tipos de archivos descargados de la UV van a respetar el nombre con el que se descargan.
+### Aclaración: Los nombres de los distintos tipos de archivos descargados de la UV van a respetar el nombre con el que se descargan.
 
 ## Línea Base
 **Se establecerá la línea base inicial y la carga de todos los archivos correspondientes disponibles hasta el día Martes 03/09/2024.**
