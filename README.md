@@ -21,7 +21,7 @@ El siguiente formato será utilizado para el nombrado de las versiones:
 
 **Reglas de nombrado de cada ítem de configuración:**
 Se utilizará el siguiente formato para el nombrado de versiones:
-_<Abreviatura>_<Prefijo>_<Nombre>.<Extensión>
+<Abreviatura>_<Prefijo>_<Nombre>.<Extensión>
 
 Donde:
 - Abreviatura:
@@ -53,6 +53,8 @@ Se consideran ítems de configuración los siguientes elementos:
 | Toma de Notas    | PDF, DOCX, GDOC    | NOTAS       | Clases/Toma-de-Notas  | _ << Abreviatura >> _ << Prefijo >> _ << FechaClase >> _ << TemaClase >> _ << InicialesAutor >>.<< Extensión >>
 | Trabajo-Grupal   | PDF, DOCX, XLSX    | TG          | Trabajos-Grupales/    | _ << Abreviatura >> _ << Prefijo >> _ << NombreGuia >>.<< Extensión >>
 | Simulacro 	   | PDF, DOCX          | SIM         | Clases/Simulacros     | _ << Abreviatura >> _ << Prefijo >> _ << NombreSimulacro >>.<< Extensión >> 
+
+## Aclaración: Los nombres de los distintos tipos de archivos descargados de la UV van a respetar el nombre con el que se descargan.
 
 ## Línea Base
 **Se establecerá la línea base inicial y la carga de todos los archivos correspondientes disponibles hasta el día Martes 03/09/2024.**
