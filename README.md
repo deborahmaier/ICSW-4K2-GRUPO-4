@@ -45,7 +45,7 @@ Se consideran ítems de configuración los siguientes elementos:
 | Tipo             | Extensión          | Abreviatura | Ubicación Física      | Nombre específico                                                                           |
 |------------------|--------------------|-------------|-----------------------|---------------------------------------------------------------------------------------------|
 | Bibliografía     | PDF                | BIBLIO      | Bibliografía/TemaX/   | _ << Abreviatura >> _  << NombreMaterial >>.<< pdf >>
-| Trabajo-Práctico | PDF, DOCX, XLSX    | TP          | Trabajos-Prácticos/   | _ << Abreviatura >> _  << Nro-TP >> _ << NombreTP >>.<< Extensión >>
+| Trabajo-Práctico | PDF, DOCX, ZIP    | TP          | Trabajos-Prácticos/   | _ << Abreviatura >> _  << Nro-TP >> _ << NombreTP >>.<< Extensión >>
 | Resumen          | PDF, DOCX, GDOC    | RES         | Resúmenes/ 	      | _ << Abreviatura >> _  << NombreResumen >>.<< Extensión >
 | Lineamiento      | PDF                | LINEA       | Lineamientos/         | _ << Abreviatura >> _  << NombreLineamiento >>.<< pdf >>
 | Presentación     | PDF, PPTX, GDOC    | PRESENT     | Clases/Presentaciones/| _ << Abreviatura >> _  << NombrePresentacion >>.<< Extensión >>
