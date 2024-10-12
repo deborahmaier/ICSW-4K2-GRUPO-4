@@ -21,7 +21,7 @@ El siguiente formato será utilizado para el nombrado de las versiones:
 
 **Reglas de nombrado de cada ítem de configuración:**
 Se utilizará el siguiente formato para el nombrado de versiones:
-<Abreviatura>_<Prefijo>_<Nombre>.<Extensión>
+<Abreviatura>_<Nombre>.<Extensión>
 
 Donde:
 - Abreviatura:
@@ -44,15 +44,15 @@ Se consideran ítems de configuración los siguientes elementos:
 
 | Tipo             | Extensión          | Abreviatura | Ubicación Física      | Nombre específico                                                                           |
 |------------------|--------------------|-------------|-----------------------|---------------------------------------------------------------------------------------------|
-| Bibliografía     | PDF                | BIBLIO      | Bibliografía/TemaX/   | _ << Abreviatura >> _ << Prefijo >> _ << NombreMaterial >>.<< pdf >>
-| Trabajo-Práctico | PDF, DOCX, XLSX    | TP          | Trabajos-Prácticos/   | _ << Abreviatura >> _ << Prefijo >> _ << Nro-TP >> _ << NombreTP >>.<< Extensión >>
-| Resumen          | PDF, DOCX, GDOC    | RES         | Resúmenes/ 	      | _ << Abreviatura >> _ << Prefijo >> _ << NombreResumen >>.<< Extensión >
-| Lineamiento      | PDF                | LINEA       | Lineamientos/         | _ << Abreviatura >> _ << Prefijo >> _ << NombreLineamiento >>.<< pdf >>
-| Presentación     | PDF, PPTX, GDOC    | PRESENT     | Clases/Presentaciones/| _ << Abreviatura >> _ << Prefijo >> _ << NombrePresentacion >>.<< Extensión >>
-| Multimedia       | JPG, PNG, PDF, MP4 | MULT        | Multimedia/ 	      | _ << Abreviatura >> _ << Prefijo >> _ << NombreArchivo >>.<< Extensión >>
-| Toma de Notas    | PDF, DOCX, GDOC    | NOTAS       | Clases/Toma-de-Notas  | _ << Abreviatura >> _ << Prefijo >> _ << FechaClase >> _ << TemaClase >> _ << InicialesAutor >>.<< Extensión >>
-| Trabajo-Grupal   | PDF, DOCX, XLSX    | TG          | Trabajos-Grupales/    | _ << Abreviatura >> _ << Prefijo >> _ << NombreGuia >>.<< Extensión >>
-| Simulacro 	   | PDF, DOCX          | SIM         | Clases/Simulacros     | _ << Abreviatura >> _ << Prefijo >> _ << NombreSimulacro >>.<< Extensión >> 
+| Bibliografía     | PDF                | BIBLIO      | Bibliografía/TemaX/   | _ << Abreviatura >> _  << NombreMaterial >>.<< pdf >>
+| Trabajo-Práctico | PDF, DOCX, XLSX    | TP          | Trabajos-Prácticos/   | _ << Abreviatura >> _  << Nro-TP >> _ << NombreTP >>.<< Extensión >>
+| Resumen          | PDF, DOCX, GDOC    | RES         | Resúmenes/ 	      | _ << Abreviatura >> _  << NombreResumen >>.<< Extensión >
+| Lineamiento      | PDF                | LINEA       | Lineamientos/         | _ << Abreviatura >> _  << NombreLineamiento >>.<< pdf >>
+| Presentación     | PDF, PPTX, GDOC    | PRESENT     | Clases/Presentaciones/| _ << Abreviatura >> _  << NombrePresentacion >>.<< Extensión >>
+| Multimedia       | JPG, PNG, PDF, MP4 | MULT        | Multimedia/ 	      | _ << Abreviatura >> _  << NombreArchivo >>.<< Extensión >>
+| Toma de Notas    | PDF, DOCX, GDOC    | NOTAS       | Clases/Toma-de-Notas  | _ << Abreviatura >> _  << FechaClase >> _ << TemaClase >> _ << InicialesAutor >>.<< Extensión >>
+| Trabajo-Grupal   | PDF, DOCX, XLSX    | TG          | Trabajos-Grupales/    | _ << Abreviatura >> _  << NombreGuia >>.<< Extensión >>
+| Simulacro 	   | PDF, DOCX          | SIM         | Clases/Simulacros     | _ << Abreviatura >> _  << NombreSimulacro >>.<< Extensión >> 
 
 ### Aclaración: Los nombres de los distintos tipos de archivos descargados de la UV van a respetar el nombre con el que se descargan.
 
