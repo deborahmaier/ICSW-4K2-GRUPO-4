@@ -59,7 +59,7 @@ Se consideran ítems de configuración los siguientes elementos:
 ## Línea Base
 **Se establecerá la línea base inicial y la carga de todos los archivos correspondientes disponibles hasta el día Martes 03/09/2024.**
 
-Luego, cada modificación incluída en el repositorio será revisada por todos los integrantes del equipo antes de otorgarle o no la etiqueta de “baseline” para su inclusión o no en la línea base del proyecto. Esta revisión está definida para realizarse cada 2 semanas los días sábados en donde se actualizará la versión de la línea base.
+Luego, cada modificación incluída en el repositorio será revisada por todos los integrantes del equipo antes de otorgarle o no la etiqueta de “baseline” para su inclusión o no en la línea base del proyecto. Esta revisión está definida para realizarse cada 2 semanas los fines de semana en donde se actualizará la versión de la línea base.
 
 Estableciendo este intervalo de tiempo para las revisiones permite que todos los integrantes mantengan una actualización de los conocimientos, usando cada una de estas instancias como “checkpoint” en el transcurso del cursado de la materia.
 
