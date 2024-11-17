@@ -64,6 +64,9 @@ Luego, cada modificación incluída en el repositorio será revisada por todos l
 Estableciendo este intervalo de tiempo para las revisiones permite que todos los integrantes mantengan una actualización de los conocimientos, usando cada una de estas instancias como “checkpoint” en el transcurso del cursado de la materia.
 
 
+Se presenta una excepción con la última linea base antes de la presentación del repositorio, siendo esta definida el último fin de semana previo a la presentación, para lograr que esté lo más completa posible, postergando o adelantando de ser necesario la emisión de una linea base regular.
+
+
 
 
 
